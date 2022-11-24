@@ -5,4 +5,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a = 'codeschoo'
+    return a
