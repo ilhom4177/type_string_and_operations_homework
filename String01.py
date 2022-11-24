@@ -5,5 +5,5 @@ def main():
     Returns:
         str: return answer.
     """
-    a = 'codeschoo'
+    a = 'codeschool'
     return a
