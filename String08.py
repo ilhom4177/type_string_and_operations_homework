@@ -7,4 +7,6 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return 
+    return '{}, {}'.format(last,first)
+print ( main ( 'ILHOMJAN' , 'MAMATJULOV' ))
+    
